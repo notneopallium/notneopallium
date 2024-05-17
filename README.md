@@ -15,9 +15,6 @@
        alt="snake" /></a>
 </div>
 
-<br>
-</br>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,lua,html,css,js,php,mysql,visualstudio,python,dotnet" />
