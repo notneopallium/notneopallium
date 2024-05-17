@@ -19,7 +19,9 @@
 </br>
 
 <p align="center">
-[![skills](https://skillicons.dev/icons?i=c,cs,cpp,lua,html,css,js,php,mysql,visualstudio,python,dotnet)](#)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,lua,html,css,js,php,mysql,visualstudio,python,dotnet" />
+  </a>
 </p>
 
 <!--horizontal divider(gradiant)-->
